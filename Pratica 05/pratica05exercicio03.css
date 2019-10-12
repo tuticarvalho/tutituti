@@ -1,0 +1,11 @@
+.resp, .valor {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center
+}
+
+body {
+    background-color: aqua;
+}
